@@ -1,0 +1,167 @@
+{
+  "total_items": 10,
+  "page": 1,
+  "limit": 10,
+  "data": [
+    {
+      "date": "2024-12-09T00:00:00Z",
+      "id": "0Adef000212121",
+      "withdrawal": 4500,
+      "amount": 1200,
+      "status": "Completed",
+      "details": {
+        "client": "Carlos Ramirez",
+        "transaction_type": "commission",
+        "issuer": "Global Assurance",
+        "contract": "0Adef000212121",
+        "contract_id": "CSDA98xA009812",
+        "commission_rate": 9,
+        "commission_amount": 108
+      }
+    },
+    {
+      "date": "2024-12-09T00:00:00Z",
+      "id": "00Zx00C231191",
+      "withdrawal": 1200,
+      "amount": 480,
+      "status": "Completed",
+      "details": {
+        "client": "Rafael Jose",
+        "transaction_type": "commission",
+        "issuer": "FinTrust Bank",
+        "contract": "00Zx00C231191",
+        "contract_id": "XDHF09dP231847",
+        "commission_rate": 10,
+        "commission_amount": 48
+      }
+    },
+    {
+      "date": "2024-12-09T00:00:00Z",
+      "id": "FfS000022345",
+      "withdrawal": 800,
+      "amount": 120,
+      "status": "Completed",
+      "details": {
+        "client": "John Doe",
+        "transaction_type": "chargeback",
+        "issuer": "VidaPlus Seguros",
+        "contract": "FfS000022345",
+        "contract_id": "MNIO23bA908127",
+        "commission_rate": 8,
+        "commission_amount": 96
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "0A0uC0009843",
+      "withdrawal": 1300,
+      "amount": 900,
+      "status": "Cancelled",
+      "details": {
+        "client": "Porfirio Rodriguez",
+        "transaction_type": "debit",
+        "issuer": "Global Assurance",
+        "contract": "0A0uC0009843",
+        "contract_id": "FRWE13dB092845",
+        "commission_rate": 7,
+        "commission_amount": 63
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "0A0uC0009843",
+      "withdrawal": 3100,
+      "amount": 2300,
+      "status": "Pending",
+      "details": {
+        "client": "Rafael Jose",
+        "transaction_type": "commission",
+        "issuer": "FinTrust Bank",
+        "contract": "0A0uC0009843",
+        "contract_id": "CWER45dC321874",
+        "commission_rate": 9,
+        "commission_amount": 207
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "00Zx00C231191",
+      "withdrawal": 2000,
+      "amount": 1002,
+      "status": "Completed",
+      "details": {
+        "client": "Carlos Ramirez",
+        "transaction_type": "chargeback",
+        "issuer": "VidaPlus Seguros",
+        "contract": "00Zx00C231191",
+        "contract_id": "XUOP65cD432987",
+        "commission_rate": 8,
+        "commission_amount": 80
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "FfS000022345",
+      "withdrawal": 900,
+      "amount": 882,
+      "status": "Cancelled",
+      "details": {
+        "client": "John Doe",
+        "transaction_type": "debit",
+        "issuer": "Global Assurance",
+        "contract": "FfS000022345",
+        "contract_id": "WEQR23eD543210",
+        "commission_rate": 7,
+        "commission_amount": 61.74
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "0R00023RA431",
+      "withdrawal": 3000,
+      "amount": 2200,
+      "status": "Completed",
+      "details": {
+        "client": "Rafael Jose",
+        "transaction_type": "debit",
+        "issuer": "ProtectLife Inc.",
+        "contract": "0R00023RA431",
+        "contract_id": "VQTY67fA009852",
+        "commission_rate": 8,
+        "commission_amount": 176
+      }
+    },
+    {
+      "date": "2024-11-09T00:00:00Z",
+      "id": "0A0uC0009843",
+      "withdrawal": 650,
+      "amount": 500,
+      "status": "Pending",
+      "details": {
+        "client": "Porfirio Rodriguez",
+        "transaction_type": "chargeback",
+        "issuer": "VidaPlus Seguros",
+        "contract": "0A0uC0009843",
+        "contract_id": "MRTE98fB231845",
+        "commission_rate": 7,
+        "commission_amount": 35
+      }
+    },
+    {
+      "date": "2024-09-09T00:00:00Z",
+      "id": "00L0054Vb321",
+      "withdrawal": 1700,
+      "amount": 1120,
+      "status": "Pending",
+      "details": {
+        "client": "Carlos Ramirez",
+        "transaction_type": "debit",
+        "issuer": "FinTrust Bank",
+        "contract": "00L0054Vb321",
+        "contract_id": "VTRD56eB123654",
+        "commission_rate": 6,
+        "commission_amount": 67.2
+      }
+    }
+  ]
+}
