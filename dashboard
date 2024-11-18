@@ -1,0 +1,147 @@
+{
+  "available_balance": 14500.75,
+  "year_commissions": {
+    "total": 23650,
+    "variation": 3.8
+  },
+  "month_commissions": {
+    "total": 2675,
+    "variation": -1.5
+  },
+  "year_withdrawals": 21500,
+  "month_withdrawals": 2200,
+  "last_transactions": [
+    {
+      "date": "2024-10-15T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "OArt000214532",
+      "comments": "Pago a proveedores",
+      "amount": 1800
+    },
+    {
+      "date": "2024-10-14T00:00:00Z",
+      "transaction_type": "Commission",
+      "id": "00Zx00C232117",
+      "comments": "Comisión MA13567 Pedro Alvarado",
+      "amount": -650
+    },
+    {
+      "date": "2024-10-14T00:00:00Z",
+      "transaction_type": "Chargeback",
+      "id": "FS000023556",
+      "comments": "Bank of America ****5678",
+      "amount": -150
+    },
+    {
+      "date": "2024-10-13T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "OR00024RA421",
+      "comments": "Pago MA13567 Pedro Alvarado",
+      "amount": 920
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "OAuC00099652",
+      "comments": "Juana Rodriguez Gonzalez",
+      "amount": 2400
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "transaction_type": "Commission",
+      "id": "00Zx00C232118",
+      "comments": "Comisión MA13567 Ana Lopez",
+      "amount": -850
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "transaction_type": "Chargeback",
+      "id": "FS000023557",
+      "comments": "Bank of America ****6789",
+      "amount": -175
+    },
+    {
+      "date": "2024-10-11T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "OR00024RA422",
+      "comments": "Pago MA13567 Ana Lopez",
+      "amount": 1050
+    },
+    {
+      "date": "2024-10-10T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "OAuC00099653",
+      "comments": "Francisco Gomez Hernandez",
+      "amount": 1150
+    },
+    {
+      "date": "2024-10-09T00:00:00Z",
+      "transaction_type": "Manual debit",
+      "id": "00L0054Vb322",
+      "comments": "Javier Rodriguez Garcia",
+      "amount": 1250
+    }
+  ],
+  "top_clients": [
+    {
+      "date": "2024-10-15T00:00:00Z",
+      "client": "Laura Martinez",
+      "contract_id": "OArt000214532",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-14T00:00:00Z",
+      "client": "Andres Lopez",
+      "contract_id": "00Zx00C232117",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-14T00:00:00Z",
+      "client": "Camila Rodriguez",
+      "contract_id": "FS000023556",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-13T00:00:00Z",
+      "client": "Luis Mendoza",
+      "contract_id": "OR00024RA421",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "client": "Paula Fernandez",
+      "contract_id": "OAuC00099652",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "client": "Rafael Guzman",
+      "contract_id": "00Zx00C232118",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-12T00:00:00Z",
+      "client": "Esteban Cortes",
+      "contract_id": "FS000023557",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-11T00:00:00Z",
+      "client": "Julia Gonzalez",
+      "contract_id": "OR00024RA422",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-10T00:00:00Z",
+      "client": "Carlos Villanueva",
+      "contract_id": "OAuC00099653",
+      "amount": 20480
+    },
+    {
+      "date": "2024-10-09T00:00:00Z",
+      "client": "Fernando Ruiz",
+      "contract_id": "00L0054Vb322",
+      "amount": 20480
+    }
+  ]
+}
