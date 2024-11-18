@@ -1,0 +1,187 @@
+{
+  "total_items": 10,
+  "page": 1,
+  "limit": 10,
+  "data": [
+    {
+      "date": "2024-09-12T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "0Adef000212121",
+      "comments": "Debit Gastos Administrativos",
+      "amount": -480,
+      "balance": 20480,
+      "details": {
+        "issuer": "SeguroPlus Corp.",
+        "client": "Carlos Ramirez",
+        "contract": "0Adef000212121",
+        "contract_id": "jCSDAde908721L",
+        "contract_amount": 5000,
+        "apr": 5300,
+        "commission_rate": 9,
+        "commission_amount": 477
+      }
+    },
+    {
+      "date": "2024-09-12T00:00:00Z",
+      "transaction_type": "commission",
+      "id": "00Zx00C231191",
+      "comments": "Commission MA12494 Rafael Jose...",
+      "amount": 1200,
+      "balance": 20480,
+      "details": {
+        "issuer": "Global Assurance",
+        "client": "Rafael Jose",
+        "contract": "00Zx00C231191",
+        "contract_id": "kDHFJwe123879K",
+        "contract_amount": 6500,
+        "apr": 6800,
+        "commission_rate": 10,
+        "commission_amount": 650
+      }
+    },
+    {
+      "date": "2024-09-12T00:00:00Z",
+      "transaction_type": "chargeback",
+      "id": "FfS000022345",
+      "comments": "Bank of America ****1234",
+      "amount": 1200,
+      "balance": 20480,
+      "details": {
+        "issuer": "FinTrust Bank",
+        "client": "John Doe",
+        "contract": "FfS000022345",
+        "contract_id": "qWERfdt789013L",
+        "contract_amount": 4800,
+        "apr": 5000,
+        "commission_rate": 8,
+        "commission_amount": 384
+      }
+    },
+    {
+      "date": "2024-09-11T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "0R00023RA431",
+      "comments": "Payoff MA12494 Rafael Jose Gonzal...",
+      "amount": -120,
+      "balance": 20480,
+      "details": {
+        "issuer": "ProtectLife Inc.",
+        "client": "Rafael Jose Gonzalvez",
+        "contract": "0R00023RA431",
+        "contract_id": "bVCFge098234G",
+        "contract_amount": 3000,
+        "apr": 3150,
+        "commission_rate": 7,
+        "commission_amount": 210
+      }
+    },
+    {
+      "date": "2024-09-11T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "0A0uC0009843",
+      "comments": "Porfirio Rodriguez Goncalvez",
+      "amount": -1002,
+      "balance": 20480,
+      "details": {
+        "issuer": "VidaPlus Seguros",
+        "client": "Porfirio Rodriguez Goncalvez",
+        "contract": "0A0uC0009843",
+        "contract_id": "xMNFru123645L",
+        "contract_amount": 4000,
+        "apr": 4200,
+        "commission_rate": 8,
+        "commission_amount": 320
+      }
+    },
+    {
+      "date": "2024-09-11T00:00:00Z",
+      "transaction_type": "commission",
+      "id": "00Zx00C231191",
+      "comments": "Commission MA12494 Rafael Jose...",
+      "amount": 900,
+      "balance": 20480,
+      "details": {
+        "issuer": "Global Assurance",
+        "client": "Rafael Jose",
+        "contract": "00Zx00C231191",
+        "contract_id": "lQERtdf128739M",
+        "contract_amount": 5500,
+        "apr": 5800,
+        "commission_rate": 10,
+        "commission_amount": 550
+      }
+    },
+    {
+      "date": "2024-09-11T00:00:00Z",
+      "transaction_type": "chargeback",
+      "id": "FfS000022345",
+      "comments": "Commission MA12494 Rafael Jose...",
+      "amount": 2300,
+      "balance": 20480,
+      "details": {
+        "issuer": "FinTrust Bank",
+        "client": "Rafael Jose",
+        "contract": "FfS000022345",
+        "contract_id": "wTREklm345678N",
+        "contract_amount": 6000,
+        "apr": 6200,
+        "commission_rate": 9,
+        "commission_amount": 540
+      }
+    },
+    {
+      "date": "2024-09-11T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "0R00023RA431",
+      "comments": "Bank of America ****1234",
+      "amount": -500,
+      "balance": 20480,
+      "details": {
+        "issuer": "FinTrust Bank",
+        "client": "John Doe",
+        "contract": "0R00023RA431",
+        "contract_id": "pLKJgtr456789O",
+        "contract_amount": 7000,
+        "apr": 7350,
+        "commission_rate": 7,
+        "commission_amount": 490
+      }
+    },
+    {
+      "date": "2024-09-09T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "00L0054Vb321",
+      "comments": "Porfirio Rodriguez Goncalvez",
+      "amount": -500,
+      "balance": 20480,
+      "details": {
+        "issuer": "ProtectLife Inc.",
+        "client": "Porfirio Rodriguez Goncalvez",
+        "contract": "00L0054Vb321",
+        "contract_id": "yUIOgth234576P",
+        "contract_amount": 3500,
+        "apr": 3675,
+        "commission_rate": 7,
+        "commission_amount": 245
+      }
+    },
+    {
+      "date": "2024-09-10T00:00:00Z",
+      "transaction_type": "debit",
+      "id": "0Adef000123456",
+      "comments": "Miscellaneous fees",
+      "amount": -300,
+      "balance": 20480,
+      "details": {
+        "issuer": "VidaPlus Seguros",
+        "client": "Carlos Ramirez",
+        "contract": "0Adef000123456",
+        "contract_id": "rQWEas123456T",
+        "contract_amount": 2800,
+        "apr": 2940,
+        "commission_rate": 7,
+        "commission_amount": 196
+      }
+    }
+  ]
+}
