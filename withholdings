@@ -7,7 +7,7 @@
       "date": "2024-12-09T00:00:00Z",
       "id": "0Adef000212121",
       "withdrawal": 4500,
-      "amount": 1200,
+      "amount": -1200,
       "status": "Completed",
       "details": {
         "client": "Carlos Ramirez",
@@ -55,7 +55,7 @@
       "date": "2024-11-09T00:00:00Z",
       "id": "0A0uC0009843",
       "withdrawal": 1300,
-      "amount": 900,
+      "amount": -900,
       "status": "Cancelled",
       "details": {
         "client": "Porfirio Rodriguez",
